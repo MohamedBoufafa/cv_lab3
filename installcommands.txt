@@ -1,0 +1,2 @@
+conda install -c conda-forge numpy matplotlib scikit-learn seaborn joblib
+pip install opencv-python
